@@ -102,3 +102,7 @@ Dalam trace ini, sebagian besar ACK yang diterima mengakui sejumlah data yang cu
 Untuk menghitung throughput, kita dapat menggunakan rumus:
 Throughput = Total Data Transferred / Total Time
 
+# Congestion Control pada TCP
+
+1. 
+<img src="../assets/week6/13.png">
